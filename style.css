@@ -1,0 +1,40 @@
+* {
+    margin:0;
+    padding:0;
+    border:0;
+    background:transparent;
+    outline:none;
+    text-decoration:none;
+    outline:none;
+    font-family:inherit;
+    box-sizing:border-box;
+}
+
+ol, ul, li {
+  display:block;
+  list-style:none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+a img {
+  border: none;
+}
+
+button a {
+  color: inherit;
+  cursor: pointer; 
+}
+
+textarea {
+  resize: none;
+}
+
+#root {
+    display: absolute;
+    color:rgba(170, 20, 65, 0.678)
+    
+  }
